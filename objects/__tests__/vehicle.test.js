@@ -1,6 +1,6 @@
 'use strict';
 
-const Vehicle = require('../lib/vehicle-constructor.js');
+const Vehicle = require('../vehicle-constructor.js');
 
 describe('Vehicles', () => {
 
